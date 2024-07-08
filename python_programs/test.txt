@@ -1,0 +1,5 @@
+INFO - 2024-06-12 12:38:03,517   - I am a info message
+WARNING - 2024-06-12 12:38:03,517   - I am a warning message
+ERROR - 2024-06-12 12:38:03,517   - I am a error message
+CRITICAL - 2024-06-12 12:38:03,517   - I am a critical message
+INFO - 2024-06-12 12:38:03,517   - 50

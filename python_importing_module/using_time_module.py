@@ -1,0 +1,18 @@
+import time
+
+x = time.strftime("%Y-%m-%d")
+print(x)
+y = time.strftime("%Y-%m-%d %H:%M:%S")
+print(y)
+z = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+print(z)
+a = time.strftime("%y-%m-%d %H:%M:%S", time.gmtime())
+print(a)
+b = time.strftime("%Y-%m-%d %I:%M:%S")
+print(b)
+c = time.strftime("%Y-%m-%d %I:%M:%S %p")
+print(c)
+d = time.strftime("%c %Y-%m-%d %I:%M:%S %p")
+print(d)
+e = time.strftime("%A %y-%B-%d %H:%M:%S %p")
+print(e)
