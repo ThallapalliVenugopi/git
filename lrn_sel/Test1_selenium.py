@@ -18,6 +18,5 @@ time.sleep(2)
 "this is a partialy link text"
 #driver_obj.find_element(By.LINK_TEXT,'About').click()
 #time.sleep(2)
-driver_obj.find_element(By.PARTIAL_LINK_TEXTLINK_TEXT,'Abou'
-                                                      =5).click()
+driver_obj.find_element(By.PARTIAL_LINK_TEXTLINK_TEXT,'Abo=5).click()
 time.sleep(2)
